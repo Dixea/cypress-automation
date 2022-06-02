@@ -39,6 +39,13 @@ cy.get('@element').click() */
 
 
 
+
+
+
+
+
+
+
 //cy.get('input[type="text"][name="username"][placeholder="Username or Email"]')-- if you cannoy find unique selector.
 //cy.reload()
 
